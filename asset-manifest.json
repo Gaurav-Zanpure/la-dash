@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/la-dash/static/css/main.7f6d5392.css",
+    "main.js": "/la-dash/static/js/main.c732cde4.js",
+    "index.html": "/la-dash/index.html",
+    "main.7f6d5392.css.map": "/la-dash/static/css/main.7f6d5392.css.map",
+    "main.c732cde4.js.map": "/la-dash/static/js/main.c732cde4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f6d5392.css",
+    "static/js/main.c732cde4.js"
+  ]
+}
