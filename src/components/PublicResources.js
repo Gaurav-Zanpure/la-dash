@@ -15,7 +15,7 @@ const PublicResources = () => {
 
   return (
     <div style={styles.titleBox}>
-      <h1>Public Resources gh</h1>
+      <h1>Public Resources</h1>
     </div>
   );
 };
